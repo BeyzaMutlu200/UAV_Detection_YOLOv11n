@@ -1,0 +1,7 @@
+path: C:\\Users\\Beyza\\source\\uav_model\\dataset
+train: C:\\Users\\Beyza\\source\\uav_model\\dataset\\train\\images
+val: C:\\Users\\Beyza\\source\\uav_model\\dataset\\valid\\images
+test: C:\\Users\\Beyza\\source\\uav_model\\dataset\\test\\images
+
+nc: 1
+names: ['uav']
